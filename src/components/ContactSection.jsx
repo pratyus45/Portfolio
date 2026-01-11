@@ -5,7 +5,6 @@ import {
   MapPin,
   Phone,
   Send,
-  
   X,
 } from "lucide-react";
 import { cn } from "@/lib/utils";
@@ -93,13 +92,21 @@ export const ContactSection = () => {
             <div className="pt-8">
               <h4 className="font-medium mb-4"> Connect With Me</h4>
               <div className="flex space-x-4 justify-center">
-                <a href="#" target="_blank" rel="noopener noreferrer">
+                <a 
+                  href="https://www.linkedin.com/in/pratyush-bhardwaj-784ba8268" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                >
                   <Linkedin />
                 </a>
                 <a href="#" target="_blank" rel="noopener noreferrer">
                   <X />
                 </a>
-                <a href="#" target="_blank" rel="noopener noreferrer">
+                <a 
+                  href="https://www.instagram.com/__p_r_a_t_y_u_s_h45/?utm_source=qr&igsh=MTh2MmdnMW80bnVtZw%3D%3D" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                >
                   <Instagram />
                 </a>
                
