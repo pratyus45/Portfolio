@@ -9,7 +9,7 @@ const projects = [
     tags: ["React", "Node.js", "MongoDB", "Stripe", "Express"],
     demoUrl: "https://greencart-gs.vercel.app",
     githubUrl: "https://github.com/pratyus45/grocery_frontend",
-    backendUrl: "https://github.com/pratyus45/grocery_backend", // Optional: add backend link
+    backendUrl: "https://github.com/pratyus45/grocery-backend", // Optional: add backend link
   },
   {
     id: 2,
@@ -29,7 +29,7 @@ const projects = [
     tags: ["React", "OpenAI API", "MongoDB", "Node.js", "PDF Export"],
     demoUrl: "https://github.com/pratyus45/resume-frontend",
     githubUrl: "https://github.com/pratyus45/resume-frontend",
-    backendUrl: "https://github.com/pratyus45/resume-backend", // Optional: add backend link
+    backendUrl: "https://github.com/pratyus45/resume-backend-latest", // Optional: add backend link
   },
 ];
 
