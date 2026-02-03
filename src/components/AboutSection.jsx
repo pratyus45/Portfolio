@@ -11,9 +11,7 @@ export const AboutSection = () => {
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-6">
-            <h3 className="text-2xl font-semibold">
-              Passionate Web Developer
-            </h3>
+            <h3 className="text-2xl font-semibold">Passionate Web Developer</h3>
 
             <p className="text-muted-foreground">
               As a motivated computer science graduate, I focus on building
@@ -37,12 +35,12 @@ export const AboutSection = () => {
                 Get In Touch
               </a>
 
-<a
-  href="/My_latest_res.pdf"  // Changed from /My_latest_res.pdf
-  className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
->
-  Download CV
-</a>
+              <a
+                href="/My_latest_res.pdf" // Changed from /My_latest_res.pdf
+                className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
+              >
+                Download CV
+              </a>
             </div>
           </div>
 
